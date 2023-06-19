@@ -1,5 +1,4 @@
 # Scraping-Twitter-Data
-
 This project demonstrates a simple Twitter scraping application using Python. It allows you to search for tweets based on specific criteria such as a username, date range, and tweet count. The scraped tweets can be displayed, uploaded to a MongoDB database, and downloaded as CSV or JSON files.
 
 ## Dependencies
@@ -41,5 +40,6 @@ The scraped tweet data will be stored in a MongoDB database with the following c
   - Source
   - Like Count
 
+**Important Note:** Twitter has implemented restrictions on data scraping. If you intend to scrape data from Twitter, it is essential to use the official Twitter API, which provides authorized access to their data. Please ensure you comply with Twitter's API terms of service and usage policies to avoid any potential violations.
 
 Thank you for checking out this Twitter scraping project!
